@@ -1,0 +1,15 @@
+C:\Users\Rohit Nair\Downloads\Simulation\bin\Debug\net6.0\ZooSimulator.exe
+C:\Users\Rohit Nair\Downloads\Simulation\bin\Debug\net6.0\ZooSimulator.deps.json
+C:\Users\Rohit Nair\Downloads\Simulation\bin\Debug\net6.0\ZooSimulator.runtimeconfig.json
+C:\Users\Rohit Nair\Downloads\Simulation\bin\Debug\net6.0\ZooSimulator.dll
+C:\Users\Rohit Nair\Downloads\Simulation\bin\Debug\net6.0\ZooSimulator.pdb
+C:\Users\Rohit Nair\Downloads\Simulation\obj\Debug\net6.0\ZooSimulator.csproj.AssemblyReference.cache
+C:\Users\Rohit Nair\Downloads\Simulation\obj\Debug\net6.0\ZooSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohit Nair\Downloads\Simulation\obj\Debug\net6.0\ZooSimulator.AssemblyInfoInputs.cache
+C:\Users\Rohit Nair\Downloads\Simulation\obj\Debug\net6.0\ZooSimulator.AssemblyInfo.cs
+C:\Users\Rohit Nair\Downloads\Simulation\obj\Debug\net6.0\ZooSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Nair\Downloads\Simulation\obj\Debug\net6.0\ZooSimulator.dll
+C:\Users\Rohit Nair\Downloads\Simulation\obj\Debug\net6.0\refint\ZooSimulator.dll
+C:\Users\Rohit Nair\Downloads\Simulation\obj\Debug\net6.0\ZooSimulator.pdb
+C:\Users\Rohit Nair\Downloads\Simulation\obj\Debug\net6.0\ZooSimulator.genruntimeconfig.cache
+C:\Users\Rohit Nair\Downloads\Simulation\obj\Debug\net6.0\ref\ZooSimulator.dll

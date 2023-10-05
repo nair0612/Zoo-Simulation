@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Zly6U5CowcI3vssoPl8cbe4scyEbEnSlfPaDAEnchSEiEmWxuCFPbRpPwtO2ALZR7D49q6+PthmP5+GBPnKuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rohit Nair\\Downloads\\Simulation\\ZooSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohit Nair\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Rohit Nair\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Rohit Nair\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Rohit Nair\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
